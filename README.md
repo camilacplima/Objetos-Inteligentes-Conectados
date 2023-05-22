@@ -1,6 +1,7 @@
 # Objetos-Inteligentes-Conectados
 
 Projeto de Controle de LED e Sensor de Umidade e Temperatura via ESP32
+Autoras: Camila Paganini Canal de Lima e Nathalia Lopes Paulo. 
 
 Funcionamento e Uso
 O código começa importando as bibliotecas necessárias, como machine, umqtt.simple, ujson, network e dht. Essas bibliotecas fornecem
